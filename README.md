@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="800" height="114" alt="image" src="https://github.com/user-attachments/assets/8f93d81f-389d-4a86-8818-ba97ece033ab" />
+<img width="2000" height="80" alt="image" src="https://github.com/user-attachments/assets/0b0f7be3-3531-484a-8766-f52df9133b82" />
 
 </div>
 <br />
@@ -8,14 +8,20 @@
 <br />
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=EBC681&style=flat&label=puppies)
+  ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=111154&style=flat&label=soldiers)
 
 </div>
+<br />
+<br />
+<br />
 <div align="center">
   
-<img width="1643" height="1200" alt="image" src="https://github.com/user-attachments/assets/5d1aeb93-2898-4940-a983-090cec99b63e" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/458f3f32-f23c-49f0-9934-4198d3e4b9cc" />
 
 </div>
+<br />
+<br />
+<br />
 <div align="center">
   
 [rentry](https://rentry.co/sweetness_) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[straw](https://tweekscoffeee.straw.page) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[ata](https://double0seven.atabook.org)
@@ -26,7 +32,7 @@
 <br />
 <div align="center">
   
-<img width="250" height="410" alt="image" src="https://github.com/user-attachments/assets/170e9388-df04-4bbd-8c33-c0fd7db0ba0a" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/257d40f6-fb8e-4404-b6cb-2308867d857f" />
 
 </div>
 <br />
@@ -40,6 +46,6 @@
  <br />
 <div align="center"> 
   
-<img width="800" height="114" alt="image" src="https://github.com/user-attachments/assets/c4a1c62f-9959-46af-a127-21fe13335732" />
+<img width="2000" height="80" alt="image" src="https://github.com/user-attachments/assets/55a8dfc1-4421-4fbb-8a43-0ce02a62d71d" />
 
  </div>

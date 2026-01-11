@@ -44,6 +44,13 @@
  <br />
  <br />
  <br />
+ <div align="center"> 
+   
+[tumblr graphics cred](https://www.tumblr.com/astr0v4l)
+
+ </div>
+  <br />
+   <br />
 <div align="center"> 
   
 <img width="2000" height="80" alt="image" src="https://github.com/user-attachments/assets/55a8dfc1-4421-4fbb-8a43-0ce02a62d71d" />
